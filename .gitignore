@@ -87,3 +87,6 @@ hs_err_pid*
 .classpath
 .project
 
+# JAR Ignorados
+!/lib/Hamcrest-Core-1.3.jar
+!/lib/JUnit-4.12.jar
