@@ -116,7 +116,7 @@ public class PanelLineaTelefonica extends JPanel implements ActionListener
         setPreferredSize( new Dimension( 260, 220 ) );
 
         //Etiqueta de Imagen
-        ImageIcon icono = new ImageIcon( "data/linea" + numeroLinea + ".png" );
+        ImageIcon icono = new ImageIcon( "data/Linea" + numeroLinea + ".png" );
         etiquetaImagen = new JLabel( "" );
         etiquetaImagen.setIcon( icono );
         etiquetaImagen.setHorizontalAlignment( JLabel.CENTER );
